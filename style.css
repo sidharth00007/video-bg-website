@@ -169,6 +169,7 @@ header .logo
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: turquoise;
 }
 .menu ul
 {
@@ -186,7 +187,7 @@ header .logo
 }
 .menu ul li a:hover
 {
-  color: #03a9f4; 
+  color: rgb(228, 42, 42); 
 }
 
 @media (max-width: 991px)
